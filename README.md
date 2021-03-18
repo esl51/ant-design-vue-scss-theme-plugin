@@ -1,4 +1,4 @@
-<h1 vertical-align="middle">antd-scss-theme-plugin
+<h1 vertical-align="middle">ant-design-vue-scss-theme-plugin
     <a targe="_blank" href="https://twitter.com/home?status=antd-scss-theme-plugin%20%E2%80%93%20A%20Webpack%20plugin%20for%20customizing%20Ant%20Design%20with%20an%20SCSS%20theme%20file.%0A%0Ahttps%3A%2F%2Fgithub.com%2Fprncc%2Fantd-scss-theme-plugin">
         <img height="26px" src="https://simplesharebuttons.com/images/somacro/twitter.png"
             alt="Tweet"></a>
