@@ -1,6 +1,6 @@
 {
-  "name": "@igor-lemon/antd-scss-theme-plugin",
-  "description": "A Webpack plugin for customizing Ant Design with SCSS.",
+  "name": "@esl51/ant-design-vue-scss-theme-plugin",
+  "description": "A Webpack plugin for customizing Ant Design Vue with SCSS.",
   "version": "3.0.0",
   "main": "build/dist/lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igor-lemon/antd-scss-theme-plugin.git"
+    "url": "git+https://github.com/esl51/ant-design-vue-scss-theme-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -28,9 +28,9 @@
   "author": "Intoli, LLC <contact@intoli.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/igor-lemon/antd-scss-theme-plugin/issues"
+    "url": "https://github.com/esl51/ant-design-vue-scss-theme-plugin/issues"
   },
-  "homepage": "https://github.com/igor-lemon/antd-scss-theme-plugin",
+  "homepage": "https://github.com/esl51/ant-design-vue-scss-theme-plugin",
   "files": [
     "build/dist"
   ],
@@ -40,7 +40,7 @@
     "scss-to-json": "^2.0.0"
   },
   "peerDependencies": {
-    "antd": "^4.4.1",
+    "ant-design-vue": "^1.7.4",
     "less-loader": "^6.2.0",
     "sass-loader": "^9.0.2"
   },
